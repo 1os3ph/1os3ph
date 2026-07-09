@@ -5,7 +5,7 @@
 
 ---
 ### 👨‍💻 The Honest Truth About Me
-I won't pretend to be a 10x developer. I don't have a perfect GPA or a shelf full of hackathon trophies. Truly a napper.
+I won't pretend to be a 10x developer. I don't have a perfect GPA or a shelf full of hackathon trophies. Nothing else but a napper.
 
 - I’m currently working on **building RESTful APIs with Python & FastAPI**
 
