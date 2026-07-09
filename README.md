@@ -1,43 +1,23 @@
-<h1 align="center">Hi, I'm Jose Purba Dasuha! 👋</h1>
+<h1 align="center">Hi 👋, I'm Jose Purba Dasuha</h1>
 <h3 align="center">A 4th-semester CS student, really likes taking naps.</h3>
 
-<p align="center">
-  <!-- Ini akan memunculkan counter jumlah orang yang melihat profilmu -->
-  <img src="https://komarev.com/ghpvc/?username=1os3ph&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1os3ph&label=Profile%20views&color=0e75b6&style=flat" alt="1os3ph" /> </p>
 
 ---
-
 ### 👨‍💻 The Honest Truth About Me
-Napper.
+I won't pretend to be a 10x developer. I don't have a perfect GPA or a shelf full of hackathon trophies.
 
-### 🚀 What I'm Currently Doing
-- **Currently grinding:** Python and building REST APIs with **FastAPI**.
-- **Next on my menu:** JavaScript and **React.js** (Getting ready for the frontend side).
-- **Deeply interested in:** Enterprise business logic, system integrations, and how tech solves real-world corporate problems.
-- **Daily activity:** Reading documentations, debugging, and drinking coffee.
+- 🔭 I’m currently working on **building RESTful APIs with Python & FastAPI**
 
-### 🛠️ Tech Stack (Work in Progress)
+- 🌱 I’m currently learning **JavaScript, React.js, and Enterprise System Basics**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Icon Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  </a>
-  <!-- Icon FastAPI -->
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/> 
-  </a>
-</p>
-<p><i>*Will add JavaScript and React icons once I actually start learning them! </i></p>
-
-### 📊 My GitHub Stats
-<p align="center">
-  <a href="https://github.com/1os3ph">
-    <img src="https://github-readme-stats.vercel.app/api?username=1os3ph&show_icons=true&theme=radical&hide_border=true" alt="1os3ph's GitHub Stats" />
-  </a>
+<a href="https://instagram.com/1os3ph._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1os3ph._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/joselearnstosmile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joselearnstosmile" height="30" width="40" /></a>
 </p>
 
----
-<p align="center">
-  <i>"A master was once a beginner who didn't quit."</i>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1os3ph&show_icons=true&locale=en" alt="1os3ph" /></p>
