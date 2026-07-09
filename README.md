@@ -7,9 +7,9 @@
 ### 👨‍💻 The Honest Truth About Me
 I won't pretend to be a 10x developer. I don't have a perfect GPA or a shelf full of hackathon trophies.
 
-- 🔭 I’m currently working on **building RESTful APIs with Python & FastAPI**
+- I’m currently working on **building RESTful APIs with Python & FastAPI**
 
-- 🌱 I’m currently learning **JavaScript, React.js, and Enterprise System Basics**
+- I’m currently learning **JavaScript, React.js, and Enterprise System Basics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
