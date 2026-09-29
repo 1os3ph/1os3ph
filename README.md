@@ -1,23 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jose Purba Dasuha</h1>
-<h3 align="center">A 5th-semester CS student, really likes taking naps.</h3>
+<div align="center">
+  
+  <h1>Hi 👋, I'm Jose Purba</h1>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Enterprise+Tech+Consultant;SAP+ABAP+Developer+Enthusiast;Backend+%26+Data+Engineer;IT+Del+Informatics+Student" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <p align="center">
+    An Informatics student at <b>Institut Teknologi Del</b> with a strong passion for building robust enterprise architectures, relational database systems, and scalable backend APIs. Currently architecting my path toward becoming a Top-Tier SAP Technical Consultant.
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1os3ph&label=Profile%20views&color=0e75b6&style=flat" alt="1os3ph" /> </p>
+  <br />
+</div>
 
 ---
-### 👨‍💻 The Honest Truth About Me
-I won't pretend to be a 10x developer. I don't have a perfect GPA or a shelf full of hackathon trophies. Nothing else but a napper.
 
-- I’m currently working on **building RESTful APIs with Python & FastAPI**
+### 💼 What I'm Currently Working On
+- 🏗️ Architecting a **Mini ERP Core System** simulating SAP MM (Procurement) & SD (Sales) modules.
+- ⚙️ Developing RESTful APIs using **Python & FastAPI**.
+- 🗄️ Designing clean, normalized relational databases with **PostgreSQL**.
+- 🌐 Exploring modern frontend integrations with **React.js & Next.js**.
 
-- I’m currently learning **JavaScript, React.js, and Enterprise System Basics**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/1os3ph._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1os3ph._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joselearnstosmile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joselearnstosmile" height="30" width="40" /></a>
-</p>
+### 💻 Technologies & Programming Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1os3ph&show_icons=true&locale=en" alt="1os3ph" /></p>
+**⚡ Core Stack & Databases**
+<br />
+*The primary engines and languages I use to build business logic and data structures.*
+<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,js,react,nextjs,nodejs" />
+</a>
+
+<br />
+<br />
+
+**🛡️ OS, Tools & Environments**
+<br />
+*My daily drivers for version control, development, and system environments.*
+<br />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,postman,docker" />
+</a>
+
+---
+
+### 🚀 Let's Connect & Collaborate!
+<div align="left">
+  <a href="https://instagram.com/josepurba_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@del.ac.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
