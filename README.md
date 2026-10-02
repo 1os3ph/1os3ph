@@ -27,26 +27,23 @@
 
 ### 💻 Technologies & Programming Languages
 
-<br />
+#### ⚡ Core Stack & Databases
+> *The primary engines and languages I use to build business logic and data structures.*
 
-**⚡ Core Stack & Databases**
-<br />
-*The primary engines and languages I use to build business logic and data structures.*
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,js,react,nextjs,nodejs" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,js,react,nextjs" alt="Core Stack" />
+  </a>
+</p>
 
-<br />
-<br />
+#### 🛡️ OS, Tools & Environments
+> *My daily drivers for version control, development, and system environments.*
 
-**🛡️ OS, Tools & Environments**
-<br />
-*My daily drivers for version control, development, and system environments.*
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,postman,docker" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools" />
+  </a>
+</p>
 
 ---
 
